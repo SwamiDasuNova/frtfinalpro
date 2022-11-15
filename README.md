@@ -26,10 +26,17 @@ App Services URL : https://foodielovers.azurewebsites.net
 My Website Link: https://witty-desert-073ce7410.2.azurestaticapps.net
 
 ## Homepage
-
-## Contact
+![Screenshot_20221109_015835](https://user-images.githubusercontent.com/117521667/201898677-b64031c2-3d61-42ca-81b2-bc413e6be29b.png)
+![Screenshot_20221109_015917](https://user-images.githubusercontent.com/117521667/201898736-ea3a680b-045c-42d6-9354-8bcc0af9c63a.png)
+![Screenshot_20221109_020058](https://user-images.githubusercontent.com/117521667/201898764-24db23fd-7976-4aad-a604-1763dd043fb7.png)
 
 ## About
+![Screenshot_20221109_020058](https://user-images.githubusercontent.com/117521667/201899125-bd388fee-a1bf-4f4e-951c-f2d2addaa435.png)
+![Screenshot_20221109_020117](https://user-images.githubusercontent.com/117521667/201899167-09f18fc8-581f-4c93-9492-d3e7f0e6ea84.png)
+
+## Contact
+![Screenshot_20221109_020058](https://user-images.githubusercontent.com/117521667/201899284-e63df691-8e09-45fe-851b-d8a1a7a4df14.png)
+![Screenshot_20221109_020134](https://user-images.githubusercontent.com/117521667/201899341-c7fe4aac-e796-46e1-9806-ac5e9e795944.png)
 
 ## Azure Services Used
 <img width="727" alt="Screenshot 2022-11-15 160546" src="https://user-images.githubusercontent.com/117521667/201898329-f74219f7-1637-4777-96d2-ce5cfd19387b.png">
