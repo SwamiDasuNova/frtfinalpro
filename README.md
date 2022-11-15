@@ -28,13 +28,16 @@ My Website Link: https://witty-desert-073ce7410.2.azurestaticapps.net
 ## Homepage
 ![Screenshot_20221109_015835](https://user-images.githubusercontent.com/117521667/201898677-b64031c2-3d61-42ca-81b2-bc413e6be29b.png)
 ![Screenshot_20221109_015917](https://user-images.githubusercontent.com/117521667/201898736-ea3a680b-045c-42d6-9354-8bcc0af9c63a.png)
-
+![Screenshot_20221115_041318](https://user-images.githubusercontent.com/117521667/201900024-894947f8-fbc0-4baf-b207-70655d113620.png)
 
 ## About
 ![Screenshot_20221109_020117](https://user-images.githubusercontent.com/117521667/201899167-09f18fc8-581f-4c93-9492-d3e7f0e6ea84.png)
+![Screenshot_20221115_041318](https://user-images.githubusercontent.com/117521667/201900204-22322358-1350-479f-b338-3c781854e080.png)
 
 ## Contact
 ![Screenshot_20221109_020134](https://user-images.githubusercontent.com/117521667/201899341-c7fe4aac-e796-46e1-9806-ac5e9e795944.png)
+![Screenshot_20221115_041318](https://user-images.githubusercontent.com/117521667/201900281-f2d020be-269f-46bb-950f-ab4e132bd0f0.png)
+
 
 ## Azure Services Used
 <img width="727" alt="Screenshot 2022-11-15 160546" src="https://user-images.githubusercontent.com/117521667/201898329-f74219f7-1637-4777-96d2-ce5cfd19387b.png">
