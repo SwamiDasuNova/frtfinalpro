@@ -30,3 +30,6 @@ My Website Link: https://witty-desert-073ce7410.2.azurestaticapps.net
 ## Contact
 
 ## About
+
+## Azure Services Used
+<img width="727" alt="Screenshot 2022-11-15 160546" src="https://user-images.githubusercontent.com/117521667/201898329-f74219f7-1637-4777-96d2-ce5cfd19387b.png">
